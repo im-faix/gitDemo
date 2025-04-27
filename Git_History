@@ -1,0 +1,23 @@
+Git was created in 2005 by Linus Torvalds, 
+the same developer behind the Linux operating system kernel. 
+At the time, 
+the Linux kernel project relied on a proprietary version control system called BitKeeper.
+ When the relationship between the Linux community and BitKeeper's developers broke down, Linus decided to create his own distributed version control system to manage the Linux kernel's development.
+
+GIT stands for : Global information Tracker
+
+The primary goals for Git were:
+
+Speed: Git was designed to be fast, handling large projects efficiently.
+
+Distributed Development: Developers could work independently and merge changes without relying on a centralized server.
+
+Strong Support for Non-linear Development: Git was built to handle branching and merging with ease.
+
+Data Integrity: It ensures that the history of changes is preserved securely.
+
+Efficiency with Large Projects: Git was tailored to handle the massive codebase of the Linux kernel.
+
+The initial implementation of Git was a simple shell script prototype. It quickly evolved into the robust tool we know today, thanks to contributions from the open-source community. Since then, Git has become the most popular version control system in the world, used by millions of developers and organizations to track and collaborate on software development.
+
+Git's rise to prominence has also been aided by platforms like GitHub, which was founded in 2008, and provides a user-friendly interface for hosting Git repositories, fostering collaboration, and building open-source projects.
